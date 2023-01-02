@@ -1,0 +1,12 @@
+{
+    "name": "jmarreros/sync-google-sheet",
+    "authors": [
+        {
+            "name": "Jhon Marreros Guzmán",
+            "email": "j_marreros@hotmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.13"
+    }
+}
